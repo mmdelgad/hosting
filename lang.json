@@ -1,0 +1,321 @@
+{
+  "_meta": {
+    "maxChars": {
+         "NewGameButton_text": 30,
+		 "ContinueButton_text": 30,
+		 "ContinueToGameButton_text": 30,
+		 
+		 "Level1_Post1_Text": 300,
+		 "Level1_Post2_Text": 300,
+		 "Level1_Post3_Text": 300,
+		 
+		 "PlasticBucket_Text": 50,
+		 "WoodenMop_Text": 50,
+		 "Thermometer_Text": 50,
+		 "WoodenPlate_Text": 50,
+		 "SugarPack_Text": 50,
+		 "MeasuringCup_Text": 50,
+		 "MeasuringCupWithWater_Text": 80,
+		 "MeasuringCupWithThermometer_Text": 80,
+		 "MeasuringCupAndThermometer_Text": 80,
+		 "MeasuringCup100ml_Text": 100,
+		 "50gSugar_Text": 100,
+		 "100mlOfSweetenedWater_Text": 100,
+		 "ArgentineCandy_Text": 100,
+		 
+		 "Bob_MeasuringCupMeedWaterAndThermometer_Text": 200,
+		 "Bob_MeasuringCupNeedThermometerToo_Text": 200,
+		 "Bob_MeasuringCupNeedWaterToHeat_Text": 200,
+		 "Bob_AlreadyGot100ml_Text": 200,
+		 "Bob_AlreadyGot50gSugar_Text": 200,
+		 "Bob_SeemsLikeSugarDisapear_Text": 200,
+		 
+		 "Bob_DontNeedFirstAidsKit_Text": 200,
+		 "Bob_FireExtintor1_Text": 100,
+	     "Bob_FireExtintor2_Text": 100,
+		 "Bob_NoMoreCartoons_Text": 100,
+		 
+		 
+		 "Bob_Level1_Text1": 200,
+		 "Bob_LeaveRoom_text": 100,
+		 "Bob_GoingToFire_text": 150,
+		 "Bob_ExplosionHole_text": 200,
+		 "Bob_PostitsOnWall_text": 200,
+		 "Bob_Ups_Text": 100,
+		 "Bob_TouchMetalPlate_Text": 400,
+		 "Bob_HotMetalPlate_Text": 400,
+		 "Bob_CrossingOverHotMetalPlate_Text": 400,
+		 "Bob_SecurityDoorLocked_Text": 30,
+		 "Bob_SweetCandyForMyFriends_Text": 150,
+		 
+		 "Level1Panel_SecurityDoorLocked_Question1": 300,
+		 "Level1Panel_SecurityDoorLocked_Question1_Answer1": 100,
+		 "Level1Panel_SecurityDoorLocked_Question1_Answer2": 100,
+		 "Level1Panel_SecurityDoorLocked_Question1_Answer3": 100,
+		 "Level1Panel_SecurityDoorLocked_Question1_Answer4": 100,
+		 "Level1Panel_SecurityDoorLocked_Question1_Answer5": 100,
+		 "Level1Panel_SecurityDoorLocked_Question1_Answer6": 100,
+		 "Level1Panel_SecurityDoorLocked_AccessGranted_Text": 100,
+		 
+		 "Level2Panel_SecurityDoorLocked_Question1": 300,
+		 "Level2Panel_SecurityDoorLocked_Question2": 300,
+		 "Level2Panel_SecurityDoorLocked_Question3": 300,
+		 "Level2Panel_SecurityDoorLocked_Question1_Answer1": 100,
+		 "Level2Panel_SecurityDoorLocked_Question1_Answer2": 100,
+		 "Level2Panel_SecurityDoorLocked_Question1_Answer3": 100,
+		 "Level2Panel_SecurityDoorLocked_Question1_Answer4": 100,
+		 "Level2Panel_SecurityDoorLocked_Question1_Answer5": 100,
+		 "Level2Panel_SecurityDoorLocked_Question1_Answer6": 100,
+		 "Level2Panel_SecurityDoorLocked_AccessGranted_Text": 100,
+		 
+		 
+		 "Level2_Post1_Text": 300,
+		 "Level2_Post2_Text": 300,
+		 "Level2_Post3_Text": 300,
+		 "Level2_Post4_Text": 300,
+		 "Level2_Post5_Text": 300,
+		 "Level2_Post6_Text": 300,
+		 
+		 "Level2_Post_BB_Text": 300,
+		 "Level2_Post_Scale_Text": 300,
+		 
+		 
+		 "Bob_NoThermometerOnCup_Text": 300,
+		 "Bob_AntsBlockingDoor_Text": 400,
+		 "Bob_Sink_Text": 50,
+		 "Bob_NotUseDirtyWater_Text": 400,
+		 "Bob_WhyIShouldDoThat_Text": 200,
+		 "Bob_DontNeedThatNow_Text": 200,
+		 "Bob_GreatFireLackWater_Text": 200,
+		 
+		 "Bob_HeyDoctor_Text": 200,
+		 "Doc_HelloBob_Text": 300,
+		 
+		 
+	 "BOB_Dialogue1_Text": 300,
+	 "DOC_Dialogue1_Text": 300,
+	 
+	 "BOB_Dialogue2_Text":300,
+	 "DOC_Dialogue2_Text":300,
+	 
+	 "BOB_Dialogue3_Text":300,
+	 "DOC_Dialogue3_Text":300,
+	 
+	 "BOB_Dialogue4_Text":300,
+	 "DOC_Dialogue4_Text":300,
+	 
+	 "BOB_Dialogue5_Text":300,
+	 "DOC_Dialogue5_Text":300,
+	 
+	 "BOB_Dialogue6_Text":300,
+	 "DOC_Dialogue6_Text":300,
+	 
+	 "DOC_Dialogue7_Text":400,
+	 "Question7_CorrectAnswer": 30,
+	 "Question7_WrongAnswer1": 30,
+	 "Question7_WrongAnswer2": 30,
+	 "Question7_WrongAnswer3": 30,
+	 
+	 
+	 "DOC_Dialogue8_Text": 100,
+	 "BOB_Dialogue7_Text": 100,
+	 
+	 "DOC_WrongAnswer1_Text": 100,
+	 
+	 "DOC_Dialogue9_Text": 300,
+	 "BOB_Dialogue8_Text": 100,
+	 
+	 "DOC_WrongAnswer2_Text": 100,
+	 
+	 "DOC_Dialogue11_Text": 300,
+	 
+	 "Question11_CorrectAnswer": 50,
+	 "Question11_WrongAnswer1": 50,
+	 "Question11_WrongAnswer2": 50,
+	 "Question11_WrongAnswer3": 50,
+	 
+	 
+	 "DOC_WrongAnswer3_Text": 100,
+	 
+	 "DOC_Dialogue12_Text": 100,
+	 
+	 "BOB_Dialogue9_Text": 20,
+	 
+	 "DOC_Dialogue13_Text": 100,
+	 
+	 
+	 
+	 "Bob_ObjectAlreadyUsed_Text": 150,
+		 
+		 
+		 "scene1-0002":180
+     }
+   },
+   "en": {
+	 "NewGameButton_text": "New Game",
+	 "ContinueButton_text": "Continue Game",
+	 "ContinueToGameButton_text": "Continue",
+	 
+	 	"Level1_Post1_Text": "One of properties of metals is SHINE.\nMetals are solid at room temperature exept for mercury",
+		"Level1_Post2_Text": "METALS:\nheat and electricity can easily flow through this material",
+		"Level1_Post3_Text": "Wood has very low thermal conductivity and cannot conduct electricity",
+		
+		"PlasticBucket_Text": "Plastic bucket",
+		"WoodenMop_Text": "Wooden Mop",
+		"WoodenPlate_Text": "Wooden plate",
+		"Thermometer_Text": "Thermometer",
+		"SugarPack_Text": "Sugar Pack",
+		"MeasuringCup_Text": "Measuring Cup",
+		"MeasuringCupWithWater_Text": "Measuring Cup full of water",
+		"MeasuringCupWithThermometer_Text": "Measuring Cup with thermometer",
+		"MeasuringCupAndThermometer_Text": "Measuring Cup full of water with a thermometer",
+		"MeasuringCup100ml_Text": "100ml of clean water",
+		"50gSugar_Text": "50g of sugar",
+		"100mlOfSweetenedWater_Text": "100 ml of sweetened water",
+		"ArgentineCandy_Text": "Argentine Candy",
+	 
+	  "Bob_Level1_Text1": "Wow! This is a disaster...",
+	  "Bob_LeaveRoom_text": "The doc needs my help for sure, I cannot go away…",
+	  "Bob_GoingToFire_text": "It is a long jump! I will not take that risk... Beside there is fire inside the hole!",
+	  "Bob_ExplosionHole_text": "It seems like the explosion done this hole in the floor!",
+	  "Bob_PostitsOnWall_text": "It seems the doctor is leaving his notes all over the place",
+	  "Bob_Ups_Text": "Ok... now I'm scared!",
+	  "Bob_TouchMetalPlate_Text": "I will not touch that SHINY PIECE OF METAL! It is hanging out from electric wires... Looks dangerous... Besides I cannot reach it...",
+	  "Bob_HotMetalPlate_Text": "I'm not gonna touch it... It seems to be very hot!",
+	  "Bob_CrossingOverHotMetalPlate_Text": "I could cross to the other side walking over the piece of metal but my shoes will burn!",
+	  "Bob_SecurityDoorLocked_Text": "It is locked",
+	  
+	  "Bob_DontNeedFirstAidsKit_Text": "I don't need it... yet",
+	  "Bob_FireExtintor1_Text": "First I need to cross to the other side",
+	  "Bob_FireExtintor2_Text": "I don't need it anymore",
+	  "Bob_NoMoreCartoons_Text": "No more cartoons at lunch time...",
+	  
+	  "Level1Panel_SecurityDoorLocked_Question1": "What are the properties of METALS?",
+	  "Level1Panel_SecurityDoorLocked_Question1_Answer1": "Sweetness",
+	  "Level1Panel_SecurityDoorLocked_Question1_Answer2": "Darkness",
+	  "Level1Panel_SecurityDoorLocked_Question1_Answer3": "Electricity CONDUCTIVITY",
+	  "Level1Panel_SecurityDoorLocked_Question1_Answer4": "Shine",
+	  "Level1Panel_SecurityDoorLocked_Question1_Answer5": "Transparency",
+	  "Level1Panel_SecurityDoorLocked_Question1_Answer6": "Heat CONDUCTIVITY",
+	  "Level1Panel_SecurityDoorLocked_AccessGranted_Text": "Access Granted!",
+	  
+	  "Level2Panel_SecurityDoorLocked_Question1": "What temperature does the water boil?",
+	  "Level2Panel_SecurityDoorLocked_Question1_Answer1": "100°C",
+	  "Level2Panel_SecurityDoorLocked_Question1_Answer2": "120°C",
+	  "Level2Panel_SecurityDoorLocked_Question2": "What can a balance measure?",
+	  "Level2Panel_SecurityDoorLocked_Question1_Answer3": "Temperature",
+	  "Level2Panel_SecurityDoorLocked_Question1_Answer4": "Weight",
+	  "Level2Panel_SecurityDoorLocked_Question3": "What can you measure with a measuring cup?",
+	  "Level2Panel_SecurityDoorLocked_Question1_Answer5": "Matter conductivity",
+	  "Level2Panel_SecurityDoorLocked_Question1_Answer6": "Amount of liquid",
+	  "Level2anel_SecurityDoorLocked_AccessGranted_Text": "Access Granted!",
+	  
+	 
+	  "Level2_Post1_Text": "Mom's Recipe:\nArgentine Candy\n- 50g of sugar\n- 100 ml of water\n- Mix and heat",
+	  "Level2_Post2_Text": "Boiling point: the temperature at wich a substance changes from liquid to gas\nExample: the boiling point of water is at 100°C. A thermometer can measure the temperature of the water",
+	  "Level2_Post3_Text": "Buy ant bait!",
+	  "Level2_Post4_Text": "To measure the amount of liquid I can use a measurin cup",
+	  "Level2_Post5_Text": "A balance or scale measures the weight of an object",
+	  "Level2_Post6_Text": "Solubility is a physical property of matter related to how easily it dissolves in another material",
+	  
+	  "Level2_Post_BB_Text": "This is a Bunsen Burner. I can use it to heat things. If I turn the knob I can increase or decrease the intensity of the fire",
+	  "Level2_Post_Scale_Text": "This is a scale and I can use it to measure the weight of things",
+	  
+	  
+	  "Bob_NoThermometerOnCup_Text": "",
+	  "Bob_AntsBlockingDoor_Text": "There are ants, a lot in fact... I hate them... But still I don't want to step on them...",
+	  "Bob_Sink_Text": "It is a sink",
+	  "Bob_NotUseDirtyWater_Text": "I will not cook candy with dirty water!",
+	  "Bob_WhyIShouldDoThat_Text": "Why would I do something like that?",
+	  "Bob_DontNeedThatNow_Text": "Why would I take this right now?",
+	  
+	  "Bob_MeasuringCupMeedWaterAndThermometer_Text": "I need clean water and something to measure the water temperature first!",
+	  "Bob_MeasuringCupNeedThermometerToo_Text": "I need something to measure the water temperature first!",
+	  "Bob_MeasuringCupNeedWaterToHeat_Text": "I Need water to heat first!",
+	  "Bob_AlreadyGot100ml_Text": "Great! I already got the 100ml of clean water",
+	  "Bob_AlreadyGot50gSugar_Text": "Well now I have the sugar for the recipe...",
+	  "Bob_SeemsLikeSugarDisapear_Text": "It seems that the sugar dissolves in the water because I can no longer see it",
+	  "Bob_SweetCandyForMyFriends_Text": "Sweet candy for my friends...",
+	  "Bob_GreatFireLackWater_Text":"It's too much fire for so little water",
+	 
+	 "Bob_HeyDoctor_Text": "Hey Doctor! What happened? Are you alright?",
+	 
+	 "Doc_HelloBob_Text": "Hello Bob... Yes I'm fine... Why do you ask me that?",
+	 
+	 
+	 "BOB_Dialogue1_Text": "Why!? Didn't you hear the explosion?",
+	 "DOC_Dialogue1_Text": "O yes... Sorry if I scared you. I was working on something new and revolutionary but I already forgot it.",
+	 
+	 "BOB_Dialogue2_Text":"Anyway I think we must get away from here right now. The lab will overthrow in any minute!",
+	 "DOC_Dialogue2_Text":"That's impossible I have to finish what I'm doing",
+	 
+	 "BOB_Dialogue3_Text":"What are you doing?",
+	 "DOC_Dialogue3_Text":"Not sure what is it, but it is important",
+	 
+	 "BOB_Dialogue4_Text":"...",
+	 "DOC_Dialogue4_Text":"What I'm sure is that it is about MATTER... Wow! matter is fascinating",
+	 
+	 "BOB_Dialogue5_Text":"I think I heard about it once...",
+	 "DOC_Dialogue5_Text":"Did you know that Matter includes all the substances that make up the universe?",
+	 
+	 "BOB_Dialogue6_Text":"Interesting! But the lab will collapse doc…",
+	 "DOC_Dialogue6_Text":"All objects are made of one or more types of materials",
+	 
+	 "DOC_Dialogue7_Text":"Don't worry Bob! I'm trying to remember... mmm... I can't remember the name of the physical property of matter related to the ease with which one material can dissolve into another… ",
+	 
+	 "Question7_CorrectAnswer": "SOLUBILITY?",
+	 "Question7_WrongAnswer1": "SHINE?",
+	 "Question7_WrongAnswer2": "HARDNESS?",
+	 "Question7_WrongAnswer3": "MALEABILITY?",
+	 
+	 
+	 
+	 "DOC_Dialogue8_Text": "Of course! Solubility... luckily I remembered!",
+	 "BOB_Dialogue7_Text": "Amazing doc... can we go now?",
+	 
+	 "DOC_WrongAnswer1_Text": "No Bob... I'm pretty sure that's not the answer",
+	 
+	 
+	 "Question8_CorrectAnswer": "To measure the weight of an object?",
+	 "Question8_WrongAnswer1": "To heat objects?",
+	 "Question8_WrongAnswer2": "To sweeten the water?",
+	 "Question8_WrongAnswer3": "To measure temperature?",
+	 
+	 
+	 "DOC_Dialogue9_Text": "No! not yet! First things first... I guess you saw my new scale; I think it's beautiful! The problem is that I don't remember what it's for...",
+	 
+	 
+	 "DOC_WrongAnswer2_Text": "No Bob... To do that there are other elements",
+	 "BOB_Dialogue8_Text": "Laboratory is f...",
+	 
+	 "DOC_Dialogue10_Text":"To measure the weight of an object! I can remember now",
+	 
+	 
+	 
+	 "DOC_Dialogue11_Text": "It's not so bad Bob... I need to remember one more thing and then we go... I remember that all metals are SOLID at room temperature, but there is only one that is LIQUID... ",
+	 
+	 "Question11_CorrectAnswer": "Mercury?",
+	 "Question11_WrongAnswer1": "Sodium?",
+	 "Question11_WrongAnswer2": "Water?",
+	 "Question11_WrongAnswer3": "Gold?",
+	 
+	 
+	 "DOC_WrongAnswer3_Text": "No Bob... It isn’t",
+	 
+	 "DOC_Dialogue12_Text": "MERCURY! Of course...",
+	 
+	 "BOB_Dialogue9_Text": "Doc...",
+	 
+	 "DOC_Dialogue13_Text": "Ok Bob, if you insist that much we will go right now...",
+	 
+	 
+	 
+	 "Bob_ObjectAlreadyUsed_Text":"I already used it... I don't need it anymore",
+	 
+	 
+	 
+	 "highlight": "['highlighted','lang.json']"
+	 
+	 
+   }
+ }
